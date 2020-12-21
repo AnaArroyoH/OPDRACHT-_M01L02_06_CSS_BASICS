@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#6B5C7A; background-color: #FAF0C8;
+}
+#darker-purple{
+    color:#58377A;
+}
+.green-border {
+    border: 5px solid #79AD8A;
+}
+ul{
+    font-family: Arial, Helvetica, sans-serif, bold;
+    color: #FAC8F5;
+}
+.background-color {
+    background-color: #79AD8A
+}
+.container{
+    width: 500px; color: #79AD8A; 
+    background-color: #FAB696;
+}
